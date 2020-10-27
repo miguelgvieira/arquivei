@@ -5,7 +5,7 @@ cffi==1.14.0
 chardet==3.0.4
 click==7.1.2
 connect-mysql==0.0.5
-cryptography==2.9.2
+cryptography==3.2
 Flask==1.1.1
 flask-smorest==0.18.5
 idna==2.8
