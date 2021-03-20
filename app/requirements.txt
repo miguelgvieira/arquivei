@@ -10,7 +10,7 @@ Flask==1.1.1
 flask-smorest==0.18.5
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 marshmallow==3.6.1
 mysql-connector==2.2.9
